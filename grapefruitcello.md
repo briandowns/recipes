@@ -16,4 +16,4 @@ Pour half of the lemon-infused alcohol into a second jar (or reuse the empty Eve
 After one to two weeks (or even longer for better flavor), strain both jars of citruscello through a fine mesh sieve into a large pitcher, then strain again through an ultra fine sieve (like a gold coffee filter or several layers of cheesecloth) as you pour the cello back into the mason jars. You’ll fill each jar just over halfway full; add more simple syrup if you like it a little sweeter, but I recommend waiting at least a month for the flavor to mellow out before you decide how much more to add. You might not need to at all, and in the meantime, you can use the potent “young” cello as a mixer.
 Store the cello in the freezer and serve in chilled glasses for a refreshing digestif, or stir into champagne or gin for a boozy cooler.
 
-[http://www.gardenbetty.com/2014/03/small-batch-grapefruitcello-and-orangecello/](Reference)
+[Reference](http://www.gardenbetty.com/2014/03/small-batch-grapefruitcello-and-orangecello/)
