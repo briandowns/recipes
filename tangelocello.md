@@ -1,23 +1,23 @@
-# Limoncello
+# Tangelocello
 
-This recipe is based on a recipe given to me by my father-in-law Bill Broadbent.
+We were given tangelos by a lady at my wife's ranch.  I had no idea what to do with them so natural I thought, make liquor!
 
 ## Ingredients
 
-* 14 lemons
+* 22 small tangelos or 14 regular size (lemon sized)
 * 1 liter Seagram's Extra Smooth Vodka
 * 1 Brita filter pitcher
-* 3 cups white sugar
-* 4 cups water
+* 1 1/4 cups white sugar
+* 2 cups water
 * bottles and corks
 * some sort of strainer (screen, cheesecloth)
 
 
 ## Directions
 
-* Clean the lemons with a vegetable bruch under cold water.
+* Clean the tangelos with a vegetable bruch under cold water.
 * Put the vodka through the filter at least 4 times to smoothen out the taste.  
-* Zest the lemons and place the zest in a large bowl.  Once done, put into final bottle.
+* Zest the tangelos and place the zest in a large bowl.  Once done, put into final bottle.
 * Pour 1 liter of vodka into the bottle.
 * Cover and mix the zest and vodka.
 * Let stand for one 1 in a cool, dark location.
@@ -31,12 +31,8 @@ This recipe is based on a recipe given to me by my father-in-law Bill Broadbent.
 
 ### ...after 3 weeks...
 
-* Strain the limoncello using your choice of strainer.
+* Strain the tangelocello using your choice of strainer.
 * Bottle the liqueur.
-
-## Possible Alterations
-
-The sugar can be reducded by half as well as the water.
 
 ## Serving
 
