@@ -9,7 +9,9 @@
 
 ## Directions
 
-Dump the zest into a 32-ounce jar and pour the alcohol over it. Seal with a lid and store in a cool and dark place. Steep the zest for at least three weeks (if using Everclear) or six weeks (if using vodka) until the zest turns white and brittle.
+* Dump the zest into a 32-ounce jar and pour the alcohol over it. 
+* Seal with a lid and store in a cool and dark place. 
+* Steep the zest for at least three weeks (if using Everclear) or six weeks (if using vodka) until the zest turns white and brittle.
 
 To make the simple syrup, combine the water and sugar in a medium saucepan over medium-high heat. Bring to a boil and stir until the sugar is dissolved. Let cool to room temperature before using.
 Pour half of the lemon-infused alcohol into a second jar (or reuse the empty Everclear bottle), then fill each jar with an equal amount of simple syrup. No need to fuss with the zest for now; just let them sit until the liqueur is ready to be strained.
