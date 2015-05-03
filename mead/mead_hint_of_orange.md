@@ -1,7 +1,5 @@
 # Mead
 
-
-
 ## Materials Needed
 
 * 1 large pot
@@ -23,7 +21,7 @@
 ## Terminology
 
 | Term | Definition | 
-| ------------- | :----------- |
+| ------------- | ----------- |
 | Must | the result of cooking the honey and water |
 | Pitching the yeast | adding the yeast to the mixed concoction |
 | Racking | moving the contents of 1 carboy to another |
@@ -31,29 +29,27 @@
 ## Directions
 
 * Sterilize everything that will come in contact with the mead
-* Fill pot with ½ gallon of water
-Add honey
-Heat up SLOWLY to 140F for 20 minutes, stirring all the while
-In the small bowl, pour half a cup of room temperature water and add the yeast
-Use a teaspoon to GENTLY stir
-Let yeast and water sit for 15 minutes
-Skim off any foam from the top of the pot
-Let pot cool back down to room temperature
-Using the funnel, pour the must into the carboy
-Add 20 - 30 raisins
-* Add orange slices (⅛ slices)
+* Fill pot with ½ gallon of water and honey
+* Heat up **SLOWLY** to 140F for 20 minutes, stirring all the while
+* In the small bowl, pour half a cup of room temperature water and add the yeast
+* Use a teaspoon to **GENTLY** stir the water and yeast combination
+* Let yeast and water sit for 15 minutes
+* Skim off any foam from the top of the pot
+* Let the pot cool to room temperature
+* Using the funnel, pour the must into the carboy
+* Add 20 - 30 raisins into the carboy
+* Add orange slices (⅛ slices) into the carboy
 * Add more water until almost full
-Close carboy with solid rubber stopper
-Shake gently for 10 minutes
-Add more water leaving room for later bubbling
-Using the funnel, pitch the yeast
-Close carboy with solid rubber stopper
-Shake gently, even more gently than last time
-Fill airlock halfway with water
-Close carboy with airlock
-Place in a cool dark place
+* Close carboy with solid rubber stopper
+* Shake **GENTLY** for 10 minutes
+* Add more water leaving room for later bubbling
+* Using the funnel, pitch the yeast
+* Close carboy with solid rubber stopper
+* Shake gently, even **MORE GENTLY** than last time
+* Fill airlock halfway with water and the close carboy
+* Place in a cool dark place
 
-## In 30 days
+## In 30 days...
 
 * Siphen contents from one carboy to another (racking) only take the liquid
 * Leave the oranges, raisins, etc
