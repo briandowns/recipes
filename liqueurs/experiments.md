@@ -1,8 +1,12 @@
 # Experiments
 
-This recipe is based on a recipe given to me by my father-in-law Bill Broadbent.
+These experiments are a result of buying too many peices of fruit and not wanting them to go to waste.
 
-### Experiment 1
+## Experiment 1
+
+This was inspired by a number of cocktail recipes I had found online that called for gin in small quantities to offset some other flavors.  I thought I'd cut to the chase and include gin as part of the steeping process.  For this experiement, I used 3 oz of gin; 2 oz 50 Pounds and 1 oz Hendricks.  The vodka is Seagrams Extra Smooth.
+
+### Materials
 
 | Item | Quantity | 
 | ------------- | ----------- |
@@ -27,7 +31,7 @@ This recipe is based on a recipe given to me by my father-in-law Bill Broadbent.
 * Cover and mix the zest and liquor combination
 * Let stand for 2 in a cool, dark location.
 
-#### ...after 2 weeks...
+#### After 2 weeks...
 
 * Combine sugar and water in a medium saucepan and bring to a boil.  Boil for 15 minutes and then allow to cool to room temperature.
 * Pour syrup into liquor and zest mixture.
