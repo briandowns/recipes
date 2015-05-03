@@ -23,7 +23,7 @@
 ## Terminology
 
 | Term | Definition | 
-| ------------- | ----------- |
+| ------------- | :----------- |
 | Must | the result of cooking the honey and water |
 | Pitching the yeast | adding the yeast to the mixed concoction |
 | Racking | moving the contents of 1 carboy to another |
