@@ -52,8 +52,8 @@
 ## In 30 days...
 
 * Siphen contents from one carboy to another (racking) only take the liquid
-* Leave the oranges, raisins, etc
-* There could be up to an inch of sediment at the bottom.  It’s dead yeast.  Don’t try to get all of the liquid as this may result in getting some of that sediment
+** Leave the oranges, raisins, etc
+** There could be up to an inch of sediment at the bottom.  It’s dead yeast.  Don’t try to get all of the liquid as this may result in getting some of that sediment
 * Add more water to the airlock if necessary and transfer to the other carboy
 * Let sit for 6 - 9 months
 * Bottle and serve!
