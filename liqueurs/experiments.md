@@ -43,8 +43,8 @@ This was inspired by a number of cocktail recipes I had found online that called
 Only a guess at this point but...
 
 
-Take mint and basil and muddle.
-Pour 4 oz into a shaker with ice and shake.
-Add ice to a glass, add mint and basil and then pour shaker in.
-Add club sodea OR tonic.
-Garnish with a lemon twist.
+* Take mint and basil and muddle.
+* Pour 4 oz into a shaker with ice and shake.
+* Add ice to a glass, add mint and basil and then pour shaker in.
+* Add club soda OR tonic.
+* Garnish with a lemon twist.
