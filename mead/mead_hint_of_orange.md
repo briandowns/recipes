@@ -1,22 +1,29 @@
 # Mead
 
-## Materials Needed
+## Materials 
 
-* 1 large pot
-* 1 packet of D47 yeast
-* 2 1 gallon carboys 
-* 1 rubber stopper with airlock
-* 1 solid rubber stopper
-* 1 funnel
-* 1 hose
-* 1 medium box of raisins
-* 1 orange
-* 1 qt (3 lbs) of honey
-* 1 gallon of spring water
-* 1 cooking thermometer (140F)
-* 1 large spoon
-* 1 small glass bowl
-* measuring spoons
+| Item | Quantity | 
+| ------------- | ----------- |
+| large pot | 1 |
+| 1 gallon carboy | 2 | 
+| solid rubber stopper | 1 | 
+| rubber stopper with airlock | 1 |
+| funnel | 1 | 
+| hose | 1 | 
+| thermometer | 1 (minimum 140F) |
+| large spoon | 1 | 
+| small glass bowl | 1 | 
+| measuring spoons | | 
+
+## Ingredients
+
+| Ingredient | Quantity | 
+| ------------- | ----------- |
+| D47 yeast | 1 packet |
+| honey | 1 qt (3 lbs) |
+| orange | 1 | 
+| raisins | 1 box |
+| spring water | 1 gallon | 
 
 ## Terminology
 
