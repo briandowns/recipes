@@ -4,8 +4,8 @@
 | ------------- | ----------- |
 | limes | 20 | 
 | Seagram's Extra Smooth Vodka | 1 liter |
-| sugar | 3.8 cups | 
-| water | 2 liters | 
+| sugar | 2.25 cups | 
+| water | 3 cups | 
 
 Let stand for 14 days.
 

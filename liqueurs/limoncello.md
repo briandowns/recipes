@@ -7,8 +7,8 @@ This recipe is based on a recipe given to me by my father-in-law Bill Broadbent.
 * 14 lemons
 * 1 liter Seagram's Extra Smooth Vodka
 * 1 Brita filter pitcher
-* 3 cups white sugar
-* 4 cups water
+* 1.5 cups white sugar
+* 2 cups water
 * bottles and corks
 * some sort of strainer (screen, cheesecloth)
 
