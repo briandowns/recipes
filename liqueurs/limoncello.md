@@ -15,28 +15,24 @@ This recipe is based on a recipe given to me by my father-in-law Bill Broadbent.
 
 ## Directions
 
-* Clean the lemons with a vegetable bruch under cold water.
-* Put the vodka through the filter at least 4 times to smoothen out the taste.  
+* Clean the lemons with a vegetable brush under cold water.
+* Put the vodka through the filter at least 4 times to smooth out the taste.  
 * Zest the lemons and place the zest in a large bowl.  Once done, put into final bottle.
 * Pour 1 liter of vodka into the bottle.
-* Cover and mix the zest and vodka.
-* Let stand for one 1 in a cool, dark location.
+* Put the lid on the bottle and shake to mix the vodka and zest.
+* Let stand for one 1 week in a cool dark location.
 
-### ...after a week...
+### After 1 Week
 
 * Combine sugar and water in a medium saucepan and bring to a boil.  Boil for 15 minutes and then allow to cool to room temperature.
 * Pour syrup into vodka and zest mixture.
-* Cover and mix again.
-* Let stand for 3 weeks in a cool, dark location.
+* Put the lid on the bottle and shake again to mix the syrup with the rest of the vodka and zest.
+* Let stand for 3 weeks in a cool dark location.
 
-### ...after 3 weeks...
+### After 3 Weeks
 
 * Strain the limoncello using your choice of strainer.
 * Bottle the liqueur.
-
-## Possible Alterations
-
-The sugar can be reducded by half as well as the water.
 
 ## Serving
 
