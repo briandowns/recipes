@@ -55,7 +55,7 @@ Serves: 4
 
 ## Filling Directions 
 
-* Filling: Brown beef and pork in butter with the whole clove of garlic and another clove of garlic minced.
+* Brown beef and pork in butter with the whole clove of garlic and another clove of garlic minced.
 * Remove whole clove of garlic and let meat mixture cool.
 * Mix spinach, parsley, eggs, cheese, and nutmeg into cooled meat until well blended.
 * Set aside filling until needed.
