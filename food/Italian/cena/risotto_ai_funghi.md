@@ -4,7 +4,7 @@ This recipe is an amalgamation of recipes I've seen online as well applying my o
 
 | Ingredient | Imperial | Metric |
 | ------------- | ----------- | ----------- |
-| baby portobello mushrooms | 16 oz | 454g |
+| baby portobello mushrooms | 16oz | 454g |
 | porcini | .5oz | 14g |
 | oyster mushrooms | 3.5oz | 99g |
 | shitake mushrooms | 3.5oz | 99g |
