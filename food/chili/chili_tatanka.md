@@ -34,7 +34,9 @@
 ## Crockpot
 
 * Add all ingredients stirring while doing so
-* Set to low and cook for 8 hours; occassionally stirring and tastin, making the necessary adjustments
+* Add 4 oz of water.  Use the sauce can.
+* Set to low and cook for 8 hours
+* Occassionally stirring and tastin, making the necessary adjustments
 
 ## Serving
 
