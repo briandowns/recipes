@@ -20,6 +20,7 @@
 | olive oil | for pan |
 | mushrooms | 12 |
 | egg noodles | 1 bag |
+| gruyere cheese | 1 block |
 
 # Preparation
 
@@ -40,6 +41,7 @@
 * Add some more oil to the skillet and add the butter, shallots, onions, and garlic and cook until the onions soften.
 * Add mushrooms
 * Add parsley and crushed red pepper to taste
+* Freshly shave gruyere cheese into the pan and whisk 
 * Add the beef broth and the flower and whisk for 1 minute or until the sauce reaches the desired consistency.
 
 ## Serving
@@ -47,3 +49,4 @@
 * Pile egg noodles in the center of the plate. 
 * Add meat on top
 * Spoon sauce on top of meat and noodles
+* Grate gruyere on top for additional flavor
