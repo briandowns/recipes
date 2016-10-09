@@ -1,5 +1,7 @@
 # Mulled Hard Cider
 
+
+
 ## Materials 
 
 | Item | Quantity | 
@@ -33,7 +35,7 @@
 * Simmer for 20 minutes
 * Let cool back down to room temperature
 * Add must to the primary fermentation bucket 
-* Take an initial gravity.  This reading should be around 1.089
+* Take an initial gravity.  This reading should be around 1.089. The final gravity reading will be around 1.001 depending on temperature of fermentation which will be ~11.5% ABV.
 * Add the airlock and place in a cool dark place
 
 ## After about a week...
@@ -45,8 +47,9 @@
 * Bottle
 * Bottle condition or put under CO2 pressure. 
 
-The cider is ready to drink once carbinated however it's best when aged. Try to let it sit for at least a month.
+The cider is ready to drink once carbinated however it's best when aged. Try to let it sit for at least a month but better for 2+ months.
 
 # Future Notes
 
-* Back sweaten?
+* This cider comes out semi dry and could be backsweatened.  It's not entirely necessary though.
+* Serving warm allows the cider to take on additional flavors
