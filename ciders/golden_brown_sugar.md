@@ -1,4 +1,4 @@
-# Dark Brown Sugar Cider
+# Golden Brown Sugar Cider
 
 ## Materials
 
@@ -21,7 +21,7 @@
 | yeast - Lalvin EC-1118 | 1 packet |
 | apple juice | 5 gallons |
 | peptic enzyme solution | 5 drops |
-| dark brown sugar | 2 lbs |
+| golden brown sugar | 2 lbs |
 | Brewcraft yeast nutrient | 2.5 teaspoons |
 
 ## Directions

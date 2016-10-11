@@ -1,26 +1,24 @@
 # Mulled Hard Cider
 
+## Materials
 
-
-## Materials 
-
-| Item | Quantity | 
+| Item | Quantity |
 | ------------- | ----------- |
 | large pot | 1 |
-| 1 gallon carboy | 2 | 
+| 1 gallon carboy | 2 |
 | rubber stopper with airlock | 1 |
-| funnel | 1 | 
-| large spoon | 1 | 
-| measuring spoons | | 
+| funnel | 1 |
+| large spoon | 1 |
+| measuring spoons | |
 | hydrometer | 1 |
 | wine thief | 1 |
 
 ## Ingredients
 
-| Ingredient | Quantity | 
+| Ingredient | Quantity |
 | ------------- | ----------- |
 | yeast - dry ale | 8.625g |
-| apple juice | 1 gallon | 
+| apple juice | 1 gallon |
 | peptic enzyme solution | 2 drops |
 | dark brown sugar | 2 cups |
 | Brewcraft yeast nutrient | 1 teaspoon |
@@ -34,20 +32,20 @@
 * Add 8 tbs of mulling spice
 * Simmer for 20 minutes
 * Let cool back down to room temperature
-* Add must to the primary fermentation bucket 
+* Add must to the primary fermentation bucket
 * Take an initial gravity.  This reading should be around 1.089. The final gravity reading will be around 1.001 depending on temperature of fermentation which will be ~11.5% ABV.
 * Add the airlock and place in a cool dark place
 
 ## After about a week...
 
-* Siphen contents from the primary fermentation bucket into another vessel though only take the liquid
-    * There could be up to an inch of sediment at the bottom.  It’s dead yeast, yeast nutrient and other things you don't really care about.
-* Add more water or vodka to a cleaned and steriled airlock to the secondary carboy
+* Siphon contents from the primary fermentation bucket into another vessel though only take the liquid
+    * There could be up to an inch of sediment at the bottom.  It’s dead yeast, yeast nutrient, and other things you don't really care about.
+* Add more water or vodka to a cleaned and sterilized airlock to the secondary carboy
 * Let sit for another week.
 * Bottle
-* Bottle condition or put under CO2 pressure. 
+* Bottle condition or put under CO2 pressure.
 
-The cider is ready to drink once carbinated however it's best when aged. Try to let it sit for at least a month but better for 2+ months.
+The cider is ready to drink once carbonated however it's best when aged. Try to let it sit for at least a month but better for 2+ months.
 
 # Future Notes
 
