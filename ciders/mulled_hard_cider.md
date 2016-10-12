@@ -42,7 +42,6 @@
     * There could be up to an inch of sediment at the bottom.  It’s dead yeast, yeast nutrient, and other things you don't really care about.
 * Add more water or vodka to a cleaned and sterilized airlock to the secondary carboy
 * Let sit for another week.
-* Bottle
 * Bottle condition or put under CO2 pressure.
 
 The cider is ready to drink once carbonated however it's best when aged. Try to let it sit for at least a month but better for 2+ months.
