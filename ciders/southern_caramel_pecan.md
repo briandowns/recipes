@@ -31,7 +31,7 @@
 * Sterilize everything that will come in contact with the cider
 * Fill pot with 1 gallon of apple juice
 * Add 1/4 cup of light brown sugar
-* Add 3/4 teaspoon caramel flavor oil
+* Add 1 3/4 teaspoon caramel flavor oil
 * Soak pecans in bourbon for 30 minutes. Strain. Add to food process and pulse. Add back to bourbon and let soak in.
 * Add pecans to a frying pan and cook slowly to cook off the boubon and toast
 * Lay on paper towels and dry out
@@ -43,12 +43,13 @@
 * Take an initial gravity.  This reading should be around 1.066. 
 * Add the airlock and place in a cool dark place
 
-## After about a week...
+## After about 2 weeks...
 
 * Siphon contents from the primary fermentation bucket into another vessel though only take the liquid
     * There could be up to an inch of sediment at the bottom.  It’s dead yeast, yeast nutrient, and other things you don't really care about.
-* Add more water or vodka to a cleaned and sterilized airlock to the secondary carboy
+* Add more water or vodka to a cleaned and sterilized airlock on the secondary carboy
 * Let sit for another week.
 * Bottle condition or put under CO2 pressure.
+    * If put under CO2 pressure, I'd recommend 15 psi
 
 The cider is ready to drink once carbonated however it's best when aged. Try to let it sit for at least a month but better for 2+ months.
