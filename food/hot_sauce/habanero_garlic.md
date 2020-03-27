@@ -4,7 +4,7 @@
 | ------------- | ----------- |
 | habaneros | 12 |
 | garlic | 24 cloves |
-| water | 1 cups |
+| water | 1 cup |
 | onion | 1 |
 | distilled white vinegar | 4 cups |
 | salt | 1 teaspoon |
@@ -17,7 +17,7 @@
 # Preparation
 
 * Stem and half habaneros
-* Mince garlic
+* Rough chop garlic
 * Chop onion
 
 ## Cooking

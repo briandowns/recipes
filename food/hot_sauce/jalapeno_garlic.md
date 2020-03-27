@@ -8,7 +8,7 @@
 | onion | 1/2 cup |
 | distilled white vinegar | 1/2 cup |
 | salt | 1 teaspoon |
-| olive oil | 2 tablespoons |
+| olive oil | 1 tablespoon |
 
 # Preparation
 
