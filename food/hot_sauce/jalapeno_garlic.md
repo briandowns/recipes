@@ -3,19 +3,18 @@
 | Ingredient | Quantity |
 | ------------- | ----------- |
 | jalapeńos | 20 |
-| garlic | 10 |
+| garlic | 10 cloves |
 | water | 2 cups |
 | onion | 1/2 cup |
-| distilled white vinegar | 1 teaspoon |
+| distilled white vinegar | 1/2 cup |
 | salt | 1 teaspoon |
-
+| olive oil | 2 tablespoons |
 
 # Preparation
 
 * Slice jalapeńos
 * Mince garlic
 * Mince onion
-
 
 ## Cooking
 
@@ -28,4 +27,4 @@
 
 ## Serving
 
-* On everything.
+* On everything!
