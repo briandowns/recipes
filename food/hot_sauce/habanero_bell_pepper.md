@@ -1,4 +1,4 @@
-# Habanero Garlic
+# Habanero Bell Pepper
 
 | Ingredient | Quantity |
 | ------------- | ----------- |
