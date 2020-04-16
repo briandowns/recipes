@@ -27,8 +27,7 @@
 * Reduce to simmer for 20 minutes
 * Once peppers are ready, add to pot and continue to simmer for another 10 - 15 minutes, stirring often
 * Let cool and put in blender or use emersion blender
-* Strain before bottling
-* Jar.
+* Jar
 
 ## Serving
 
