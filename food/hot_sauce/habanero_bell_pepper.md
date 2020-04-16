@@ -6,7 +6,7 @@
 | garlic | 12 cloves |
 | water | 3/4 cup |
 | onion | 1/2 |
-| distilled white vinegar | 1 cups |
+| distilled white vinegar | 1/2 cups |
 | salt | 1 teaspoon |
 | worchestershire | 3 teaspoons |
 | olive oil | 2 tablespoons |
