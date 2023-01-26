@@ -2,14 +2,12 @@
 
 | Ingredient              | Quantity                                                                   |
 | ----------------------- | -------------------------------------------------------------------------- |
-| jalapenos               | 18                                                                         |
-| habaneros               | 5                                                                          |
-| garlic                  | 18 cloves                                                                  |
+| sweet peppers           | 10                                                                         |
+| Trinidad scorpion       | 1                                                                          |
+| garlic                  | 6 cloves                                                                   |
 | white onion             | 1/2                                                                        |
 | distilled white vinegar | ? cups                                                                     |
-| worchestershire         | 3 teaspoons                                                                |
-| lime juice              | 1/2 cup                                                                    |
-| ground cumin            | 1 teaspoon                                                                 |
+| black pepper            | 1 tablespoon                                                               |
 | xantham gum             | https://hotsaucehell.com/2021/03/28/how-to-use-xanthan-gum-in-a-hot-sauce/ |
 
 # Preparation
@@ -22,14 +20,14 @@
 
 ## Ingredients
 
-* Rough chop jalapenos
-* Stem and quarter habaneros
-* Peel and smash garlic
-* Chop onion
+* Rough slice sweet peppers
+* Stem and half Trinidad scorpion
+* Peel garlic
+* Chop onion and leave large piece for topper
 
 ## Fermentation
 
-* Add prepared ingredients to the fermentation jar
+* Add garlic first and then prepared ingredients to the fermentation jar
 * Add 2% brine solution
 * Close, add bubbler, and wait 30 days
 
