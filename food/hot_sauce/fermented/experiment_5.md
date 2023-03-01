@@ -29,7 +29,7 @@
 * Add garlic 
 * Add peppers and onion
 * Add 2% brine solution
-* Close, add bubbler, and wait 30 days
+* Close, add bubbler, and wait 10 days
 
 ## Post Fermentation
 
