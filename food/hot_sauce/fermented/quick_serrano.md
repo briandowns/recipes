@@ -35,7 +35,9 @@
 * Pour contents of fermentation jar into a siv atop a bowl
 * Put contents into Ninja container along with some of the brine
 * Blend, taste, and make any necessary adjustments
-* Bottle
+* Put in sauce pan and bring to 165F to pasturize the sauce. Keep there for a few minutes while stirring to preventing burning.
+* Let cool but not to room temperature.
+* Bottle while still warm. Fill to the top.
 
 ## Notes
 
