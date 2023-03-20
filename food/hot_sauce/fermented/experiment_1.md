@@ -1,16 +1,16 @@
 # Experiment 1
 
-| Ingredient              | Quantity                                                                   |
-| ----------------------- | -------------------------------------------------------------------------- |
-| jalapenos               | 18                                                                         |
-| habaneros               | 5                                                                          |
-| garlic                  | 18 cloves                                                                  |
-| white onion             | 1/2                                                                        |
-| distilled white vinegar | ? cups                                                                     |
-| worchestershire         | 3 teaspoons                                                                |
-| lime juice              | 1/2 cup                                                                    |
-| ground cumin            | 1 teaspoon                                                                 |
-| xantham gum             | https://hotsaucehell.com/2021/03/28/how-to-use-xanthan-gum-in-a-hot-sauce/ |
+| Ingredient              | Quantity          |
+| ----------------------- | ----------------- |
+| jalapenos               | 18                |
+| habaneros               | 5                 |
+| garlic                  | 18 cloves         |
+| white onion             | 1/2               |
+| distilled white vinegar | ? cups            |
+| worchestershire         | 3 teaspoons       |
+| lime juice              | 1/2 cup           |
+| ground cumin            | 1 teaspoon        |
+| xantham gum             | 1/8th tsp per cup |
 
 # Preparation
 
