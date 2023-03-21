@@ -1,4 +1,4 @@
-# Solaris / 21 Sun Salute
+# 21 Sun Salute
 
 | Ingredient                | Quantity        |
 | ------------------------- | --------------- |
