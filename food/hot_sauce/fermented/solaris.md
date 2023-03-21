@@ -1,16 +1,16 @@
-# Solris
+# Solaris / 21 Sun Salute
 
 | Ingredient                | Quantity        |
 | ------------------------- | --------------- |
-| Habanero peppers          | 20              |
+| Habanero peppers          | 21              |
 | Trinidad Scorpion peppers | 4               |
 | sweet peppers             | 4               |
 | garlic                    | 8 cloves        |
 | white onion               | 1/2             |
-| tumeric                   | 1.5 tsp         |
-| ground giner              | 1.5 tsp         |
-| ground mustard            | 1.5 tsp         |
-| Black pepper              | 1 tsp           |
+| tumeric                   | 1 tsp           |
+| ground giner              | 1 tsp           |
+| ground mustard            | 1 tsp           |
+| Black pepper              | 1/2 tsp         |
 | white vinegar             | 2 cups          |
 | xantham gum               | 1/8 tsp per cup |
 
