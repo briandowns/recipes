@@ -30,22 +30,22 @@
 ## Fermentation
 
 * Add garlic first and then prepared ingredients to the fermentation jar
-* Add 2% brine solution
-* Close, add bubbler, and wait 7 days
+* Add 2.5% brine solution
+* Close, add bubbler, and wait duration of fermentation
 
 ## Post Fermentation
 
 * Pour contents of fermentation jar into a siv atop a bowl
-* Put contents into Ninja container along with some of the brine
-* Add spices
-* Blend, taste, and make any necessary adjustments
-* Put in sauce pan and bring to 165F to pasturize the sauce. Keep there for a few minutes while stirring to preventing burning.
+* Put contents into blender along with some of the brine
+* Add spices (if necessary)
+* Blend, taste, and make any adjustments
+* Put in pot and bring to 165F to pasturize the sauce. Keep there for a few minutes while stirring to preventing burning.
 * Let cool but not to room temperature.
-* Bottle while still warm. Fill to the top.
+* Bottle while still warm. Fill leaving minimal head room.
 
 ## Notes
 
-* Brine PH should be 3.45 and ending PH should be around (?).
+*
 
 ## Serving
 
