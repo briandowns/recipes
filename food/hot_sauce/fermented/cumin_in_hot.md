@@ -5,12 +5,12 @@
 | sweet peppers  | 6               |
 | Habaneros      | 2               |
 | Cinnamon stick | 1               |
-| garlic         | 4 cloves        |
-| white onion    | 1/3             |
-| lime           | zest, 1/2 juice |
-| cumin          | 1/4 tsp         |
-| cilantro       | pinch           |
-| xantham gum    | 1/8 tsp per cup |
+| Garlic         | 4 cloves        |
+| White onion    | 1/3             |
+| Lime           | zest, 1/2 juice |
+| Cumin          | 1/4 tsp         |
+| Cilantro       | pinch           |
+| Xantham gum    | 1/8 tsp per cup |
 
 # Preparation
 
@@ -30,7 +30,7 @@
 ## Fermentation
 
 * Add garlic first and then prepared ingredients to the fermentation jar
-* Add 2% brine solution
+* Add 2.5% brine solution
 * Close, add bubbler, and wait 7 days
 
 ## Post Fermentation

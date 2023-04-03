@@ -18,7 +18,7 @@
 
 * Fully clean jar, lid, rubber stopper, bubbler
 * Sanitize all of the above with StarSan
-* Sanitize all bottles and lids, and Ninja jar and blade top with StarSan
+* Sanitize all bottles and lids, and blender and blade top with StarSan
 
 ## Ingredients
 
