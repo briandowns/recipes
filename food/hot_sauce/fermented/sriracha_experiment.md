@@ -2,7 +2,7 @@
 
 | Ingredient              | Quantity                                                                   |
 | ----------------------- | -------------------------------------------------------------------------- |
-| Serrano peppers         | 14                                                                         |
+| Red fresno peppers      | 14                                                                         |
 | Dried Ancho             | 1                                                                          |
 | garlic                  | 3 cloves                                                                   |
 | white onion             | 1/4                                                                        |
@@ -28,8 +28,8 @@
 
 * Add garlic 
 * Then add peppers and onion
-* Add 2% brine solution
-* Close, add bubbler, and wait 10 days
+* Add 2.5% brine solution
+* Close, add bubbler, and wait 21 days
 
 ## Post Fermentation
 
@@ -38,6 +38,10 @@
 * Add spices
 * Blend, taste, and make any necessary adjustments
 * Bottle
+
+## Notes
+
+
 
 ## Serving
 
