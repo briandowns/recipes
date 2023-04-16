@@ -1,4 +1,4 @@
-# Experiment 3
+# The Devil Finds Work
 
 | Ingredient              | Quantity                                                                   |
 | ----------------------- | -------------------------------------------------------------------------- |
@@ -10,7 +10,7 @@
 | petite carrots          | 6                                                                          |
 | distilled white vinegar | ? cups                                                                     |
 | cardamon                | 6 pods                                                                     |
-| xantham gum             | https://hotsaucehell.com/2021/03/28/how-to-use-xanthan-gum-in-a-hot-sauce/ |
+| xanthan gum             | https://hotsaucehell.com/2021/03/28/how-to-use-xanthan-gum-in-a-hot-sauce/ |
 
 # Preparation
 
