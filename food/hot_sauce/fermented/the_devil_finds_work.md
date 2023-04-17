@@ -2,15 +2,15 @@
 
 | Ingredient              | Quantity                                                                   |
 | ----------------------- | -------------------------------------------------------------------------- |
-| sweet peppers           | 21                                                                         |
+| Sweet peppers           | 21                                                                         |
 | Trinidad scorpion       | 4                                                                          |
 | Dried Ancho Chilies     | 3                                                                          |
-| garlic                  | 1 bulb                                                                     |
-| white onion             | 1/2                                                                        |
-| petite carrots          | 6                                                                          |
-| distilled white vinegar | ? cups                                                                     |
-| cardamon                | 6 pods                                                                     |
-| xanthan gum             | https://hotsaucehell.com/2021/03/28/how-to-use-xanthan-gum-in-a-hot-sauce/ |
+| Garlic                  | 1 bulb                                                                     |
+| White onion             | 1/2                                                                        |
+| Petite carrots          | 6                                                                          |
+| Distilled white vinegar | ? cups                                                                     |
+| cardamon                | 8 pods                                                                     |
+| Xanthan gum             | https://hotsaucehell.com/2021/03/28/how-to-use-xanthan-gum-in-a-hot-sauce/ |
 
 # Preparation
 
